@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45aada1-5307-4a5e-a6ed-7764fea067a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Evaluaciones">
+  <component name="RunManager" selected="Application.JuegoDeAdivinacion">
     <configuration name="Decisiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Decisiones" />
       <module name="PrimerAlura" />
@@ -61,6 +59,13 @@
     </configuration>
     <configuration name="Evaluaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Evaluaciones" />
+      <module name="PrimerAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JuegoDeAdivinacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JuegoDeAdivinacion" />
       <module name="PrimerAlura" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,20 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="PrimerAlura" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JuegoDeAdivinacion" />
         <item itemvalue="Application.Evaluaciones" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Lectura" />
         <item itemvalue="Application.Decisiones" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
