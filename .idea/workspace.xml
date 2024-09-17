@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45aada1-5307-4a5e-a6ed-7764fea067a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesafioTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decisiones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mAaL2e7pmrkITFP7Dg2vMDVhAJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Decisiones.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PrimeraClase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -43,10 +43,18 @@
     "onboarding.tips.debug.path": "C:/Users/dromerof/IdeaProjects/PrimerAlura/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Decisiones">
+    <configuration name="Decisiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Decisiones" />
+      <module name="PrimerAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PrimerAlura" />
@@ -56,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Decisiones" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
